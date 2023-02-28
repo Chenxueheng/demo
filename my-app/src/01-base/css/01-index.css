@@ -5,3 +5,7 @@
 #MyActive {
     background: rgb(255, 0, 76);
 }
+
+.hidden{
+    display: none;
+}
