@@ -2,7 +2,7 @@
 import React from 'react'
 // import ReactDOM from 'react-dom'
 import { createRoot } from 'react-dom/client';
-import App from "./01-base/10-toDoList"
+import App from "./01-base/12-卖座选项卡"
 
 // React18的写法
 const container = document.getElementById('root');
